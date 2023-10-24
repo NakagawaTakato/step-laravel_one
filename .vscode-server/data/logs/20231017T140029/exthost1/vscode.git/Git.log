@@ -1,0 +1,9 @@
+2023-10-17 14:00:36.878 [info] ログ レベル: Info
+2023-10-17 14:00:36.879 [info] Git の検証が検出されました: "git"
+2023-10-17 14:00:36.879 [info] "git" から Git "2.34.1" を使用しています
+2023-10-17 14:00:36.879 [info] > git rev-parse --show-toplevel [25ms]
+2023-10-17 14:00:36.879 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-17 14:00:36.907 [info] > git rev-parse --show-toplevel [35ms]
+2023-10-17 14:00:36.907 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-17 14:00:37.206 [info] > git rev-parse --show-toplevel [234ms]
+2023-10-17 14:00:37.207 [info] fatal: not a git repository (or any of the parent directories): .git

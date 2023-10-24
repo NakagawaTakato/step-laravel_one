@@ -1,0 +1,13 @@
+2023-10-17 14:38:55.595 [info] Extension host with pid 382 started
+2023-10-17 14:38:56.101 [info] Lock '/home/takazii/.vscode-server/data/User/workspaceStorage/b6792e821c63ba0fac051b6b588da9dc/vscode.lock': Lock acquired.
+2023-10-17 14:38:56.187 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-17 14:38:56.190 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-10-17 14:38:57.384 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-17 14:38:57.641 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-17 14:38:57.642 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-17 14:38:58.498 [info] Eager extensions activated
+2023-10-17 14:38:58.499 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-17 14:38:58.501 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-17 14:39:18.043 [info] Extension host terminating: received terminate message from renderer
+2023-10-17 14:39:18.046 [info] Lock '/home/takazii/.vscode-server/data/User/workspaceStorage/b6792e821c63ba0fac051b6b588da9dc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-10-17 14:39:18.155 [info] Extension host with pid 382 exiting with code 0

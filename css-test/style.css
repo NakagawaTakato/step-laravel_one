@@ -1,0 +1,58 @@
+@charset"UTF-8";
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+}
+
+.coachtech {
+    color: #001A57;
+    margin-right: 50px;
+}
+
+.text_whole {
+    font-weight: bold;
+}
+
+.text_whole ul li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.whole_img {
+    position: relative;
+    height: 350px;
+    margin-top: 370px;
+}
+
+.text_big {
+    font-size: 70px;
+    position: absolute;
+    bottom: 255px;
+}
+
+.image_blue {
+    position: absolute;
+    background: #003366;
+    height: 200px;
+    width: 1150px;
+}
+
+.image_right {
+    position: absolute;
+    right: 0;
+    top: -300px;
+    width: 700px;
+    height: 400px;
+}

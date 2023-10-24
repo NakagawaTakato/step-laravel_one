@@ -1,0 +1,16 @@
+2023-10-17 14:12:33.961 [info] Extension host with pid 3973 started
+2023-10-17 14:12:34.311 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-10-17 14:12:34.341 [info] Lock '/home/takazii/.vscode-server/data/User/workspaceStorage/b6792e821c63ba0fac051b6b588da9dc/vscode.lock': Lock acquired.
+2023-10-17 14:12:34.401 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-17 14:12:34.583 [info] Eager extensions activated
+2023-10-17 14:12:34.636 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-17 14:12:34.637 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-17 14:12:39.178 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-10-17 14:12:50.387 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-10-17 14:12:50.391 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-17 14:13:03.180 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2023-10-17 14:13:03.185 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:pwa-chrome'
+2023-10-17 14:13:03.776 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-10-17 14:29:47.764 [info] Extension host terminating: received terminate message from renderer
+2023-10-17 14:29:47.773 [info] Lock '/home/takazii/.vscode-server/data/User/workspaceStorage/b6792e821c63ba0fac051b6b588da9dc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-10-17 14:29:47.941 [info] Extension host with pid 3973 exiting with code 0
